@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="31118" started-at="2021-12-10T18:21:08 IST" finished-at="2021-12-10T18:21:39 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="31118" started-at="2021-12-10T18:21:08 IST" finished-at="2021-12-10T18:21:39 IST">
+      <class name="com.orangeHRM.testCases.HomePageTest">
+        <test-method status="PASS" signature="initialization()[pri:0, instance:com.orangeHRM.testCases.HomePageTest@57536d79]" name="initialization" is-config="true" duration-ms="8866" started-at="2021-12-10T18:21:08 IST" finished-at="2021-12-10T18:21:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="loginTest()[pri:1, instance:com.orangeHRM.testCases.HomePageTest@57536d79]" name="loginTest" duration-ms="5477" started-at="2021-12-10T18:21:17 IST" finished-at="2021-12-10T18:21:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.orangeHRM.testCases.HomePageTest@57536d79]" name="tearDown" is-config="true" duration-ms="87" started-at="2021-12-10T18:21:22 IST" finished-at="2021-12-10T18:21:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="initialization()[pri:0, instance:com.orangeHRM.testCases.HomePageTest@57536d79]" name="initialization" is-config="true" duration-ms="7835" started-at="2021-12-10T18:21:22 IST" finished-at="2021-12-10T18:21:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="clickOnUsersLinkTest()[pri:2, instance:com.orangeHRM.testCases.HomePageTest@57536d79]" name="clickOnUsersLinkTest" duration-ms="8725" started-at="2021-12-10T18:21:30 IST" finished-at="2021-12-10T18:21:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnUsersLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.orangeHRM.testCases.HomePageTest@57536d79]" name="tearDown" is-config="true" duration-ms="89" started-at="2021-12-10T18:21:39 IST" finished-at="2021-12-10T18:21:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.orangeHRM.testCases.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

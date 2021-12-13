@@ -1,0 +1,260 @@
+2021-12-10 14:50:24,108 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-10 14:50:31,188 - OrangeHRM -INFO - Launching URL
+2021-12-10 14:50:31,357 - OrangeHRM -INFO - Validating Login Page OrangeHRMLogo
+2021-12-10 14:50:31,441 - OrangeHRM -INFO - Closing Browser
+2021-12-10 14:50:33,098 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-10 14:50:38,961 - OrangeHRM -INFO - Launching URL
+2021-12-10 14:50:38,999 - OrangeHRM -INFO - Validating Login Page Title
+2021-12-10 14:50:39,068 - OrangeHRM -INFO - Closing Browser
+2021-12-10 14:50:40,657 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-10 14:50:46,851 - OrangeHRM -INFO - Launching URL
+2021-12-10 14:50:52,149 - OrangeHRM -INFO - Login Done Successfully
+2021-12-10 14:50:52,224 - OrangeHRM -INFO - Closing Browser
+2021-12-10 16:03:33,570 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-10 16:03:36,985 - OrangeHRM -INFO - Launching URL
+2021-12-10 16:03:42,199 - OrangeHRM -INFO - Login Done Successfully
+2021-12-10 16:03:42,302 - OrangeHRM -INFO - Closing Browser
+2021-12-10 16:03:44,114 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-10 16:03:47,527 - OrangeHRM -INFO - Launching URL
+2021-12-10 16:03:50,818 - OrangeHRM -INFO - Login Done Successfully
+2021-12-10 16:03:54,941 - OrangeHRM -INFO - Clicked on Users Link
+2021-12-10 16:03:55,033 - OrangeHRM -INFO - Closing Browser
+2021-12-10 17:31:38,214 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-10 17:31:41,558 - OrangeHRM -INFO - Launching URL
+2021-12-10 17:31:44,937 - OrangeHRM -INFO - Login Done Successfully
+2021-12-10 17:31:48,377 - OrangeHRM -INFO - Clicked on Users Link
+2021-12-10 17:31:49,217 - OrangeHRM -INFO - Clicked on Add Button on Users Page
+2021-12-10 17:31:49,632 - OrangeHRM -INFO - User Added Successfully
+2021-12-10 17:31:49,728 - OrangeHRM -INFO - Closing Browser
+2021-12-10 17:31:51,352 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-10 17:31:54,561 - OrangeHRM -INFO - Launching URL
+2021-12-10 17:31:59,004 - OrangeHRM -INFO - Login Done Successfully
+2021-12-10 17:32:01,114 - OrangeHRM -INFO - Clicked on Users Link
+2021-12-10 17:32:01,899 - OrangeHRM -INFO - Clicked on Add Button on Users Page
+2021-12-10 17:32:01,992 - OrangeHRM -INFO - Closing Browser
+2021-12-10 17:32:03,614 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-10 17:32:06,966 - OrangeHRM -INFO - Launching URL
+2021-12-10 17:32:11,431 - OrangeHRM -INFO - Login Done Successfully
+2021-12-10 17:32:13,484 - OrangeHRM -INFO - Clicked on Users Link
+2021-12-10 17:32:14,913 - OrangeHRM -INFO - Enabled Users List is Displayed
+2021-12-10 17:32:15,000 - OrangeHRM -INFO - Closing Browser
+2021-12-10 17:32:16,671 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-10 17:32:20,254 - OrangeHRM -INFO - Launching URL
+2021-12-10 17:32:24,690 - OrangeHRM -INFO - Login Done Successfully
+2021-12-10 17:32:24,772 - OrangeHRM -INFO - Closing Browser
+2021-12-10 17:32:26,408 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-10 17:32:30,109 - OrangeHRM -INFO - Launching URL
+2021-12-10 17:32:34,568 - OrangeHRM -INFO - Login Done Successfully
+2021-12-10 17:32:37,153 - OrangeHRM -INFO - Clicked on Users Link
+2021-12-10 17:32:41,315 - OrangeHRM -INFO - Closing Browser
+2021-12-10 17:50:38,299 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-10 17:50:44,146 - OrangeHRM -INFO - Launching URL
+2021-12-10 17:50:49,161 - OrangeHRM -INFO - Login Done Successfully
+2021-12-10 17:50:49,286 - OrangeHRM -INFO - Closing Browser
+2021-12-10 17:50:51,430 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-10 17:50:57,810 - OrangeHRM -INFO - Launching URL
+2021-12-10 17:51:02,556 - OrangeHRM -INFO - Login Done Successfully
+2021-12-10 17:51:05,667 - OrangeHRM -INFO - Clicked on Users Link
+2021-12-10 17:51:05,781 - OrangeHRM -INFO - Closing Browser
+2021-12-10 17:55:06,135 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-10 17:55:11,210 - OrangeHRM -INFO - Launching URL
+2021-12-10 17:55:16,303 - OrangeHRM -INFO - Login Done Successfully
+2021-12-10 17:55:16,400 - OrangeHRM -INFO - Closing Browser
+2021-12-10 17:55:18,134 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-10 17:55:23,845 - OrangeHRM -INFO - Launching URL
+2021-12-10 17:55:28,995 - OrangeHRM -INFO - Login Done Successfully
+2021-12-10 17:55:32,315 - OrangeHRM -INFO - Clicked on Users Link
+2021-12-10 17:55:32,408 - OrangeHRM -INFO - Closing Browser
+2021-12-10 17:56:55,770 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-10 17:57:01,428 - OrangeHRM -INFO - Launching URL
+2021-12-10 17:57:06,716 - OrangeHRM -INFO - Login Done Successfully
+2021-12-10 17:57:06,811 - OrangeHRM -INFO - Closing Browser
+2021-12-10 17:57:08,545 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-10 17:57:13,930 - OrangeHRM -INFO - Launching URL
+2021-12-10 17:57:18,494 - OrangeHRM -INFO - Login Done Successfully
+2021-12-10 17:57:21,438 - OrangeHRM -INFO - Clicked on Users Link
+2021-12-10 17:57:21,526 - OrangeHRM -INFO - Closing Browser
+2021-12-10 18:17:33,880 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-10 18:17:40,004 - OrangeHRM -INFO - Launching URL
+2021-12-10 18:17:45,610 - OrangeHRM -INFO - Login Done Successfully
+2021-12-10 18:17:45,696 - OrangeHRM -INFO - Closing Browser
+2021-12-10 18:17:47,584 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-10 18:17:54,268 - OrangeHRM -INFO - Launching URL
+2021-12-10 18:18:00,053 - OrangeHRM -INFO - Login Done Successfully
+2021-12-10 18:18:03,198 - OrangeHRM -INFO - Clicked on Users Link
+2021-12-10 18:18:03,298 - OrangeHRM -INFO - Closing Browser
+2021-12-10 18:21:10,941 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-10 18:21:16,999 - OrangeHRM -INFO - Launching URL
+2021-12-10 18:21:22,505 - OrangeHRM -INFO - Login Done Successfully
+2021-12-10 18:21:22,596 - OrangeHRM -INFO - Closing Browser
+2021-12-10 18:21:24,355 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-10 18:21:30,409 - OrangeHRM -INFO - Launching URL
+2021-12-10 18:21:35,709 - OrangeHRM -INFO - Login Done Successfully
+2021-12-10 18:21:39,157 - OrangeHRM -INFO - Clicked on Users Link
+2021-12-10 18:21:39,247 - OrangeHRM -INFO - Closing Browser
+2021-12-13 14:12:22,632 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 14:12:26,283 - OrangeHRM -INFO - Launching URL
+2021-12-13 14:12:26,467 - OrangeHRM -INFO - Validating Login Page OrangeHRMLogo
+2021-12-13 14:12:26,552 - OrangeHRM -INFO - Closing Browser
+2021-12-13 14:12:28,183 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 14:12:31,910 - OrangeHRM -INFO - Launching URL
+2021-12-13 14:12:31,950 - OrangeHRM -INFO - Validating Login Page Title
+2021-12-13 14:12:32,014 - OrangeHRM -INFO - Closing Browser
+2021-12-13 14:14:46,541 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 14:14:50,005 - OrangeHRM -INFO - Launching URL
+2021-12-13 14:14:50,186 - OrangeHRM -INFO - Validating Login Page OrangeHRMLogo
+2021-12-13 14:14:50,318 - OrangeHRM -INFO - Closing Browser
+2021-12-13 14:14:52,034 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 14:14:55,529 - OrangeHRM -INFO - Launching URL
+2021-12-13 14:14:55,567 - OrangeHRM -INFO - Validating Login Page Title
+2021-12-13 14:14:55,647 - OrangeHRM -INFO - Closing Browser
+2021-12-13 14:15:58,749 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 14:16:04,766 - OrangeHRM -INFO - Launching URL
+2021-12-13 14:16:04,914 - OrangeHRM -INFO - Validating Login Page OrangeHRMLogo
+2021-12-13 14:16:04,993 - OrangeHRM -INFO - Closing Browser
+2021-12-13 14:16:06,594 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 14:16:10,231 - OrangeHRM -INFO - Launching URL
+2021-12-13 14:16:10,267 - OrangeHRM -INFO - Validating Login Page Title
+2021-12-13 14:16:10,357 - OrangeHRM -INFO - Closing Browser
+2021-12-13 15:50:38,293 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 15:50:43,658 - OrangeHRM -INFO - Launching URL
+2021-12-13 15:50:43,859 - OrangeHRM -INFO - Validating Login Page OrangeHRMLogo
+2021-12-13 15:50:43,955 - OrangeHRM -INFO - Closing Browser
+2021-12-13 15:50:45,594 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 15:50:53,879 - OrangeHRM -INFO - Launching URL
+2021-12-13 15:50:53,913 - OrangeHRM -INFO - Validating Login Page Title
+2021-12-13 15:50:53,993 - OrangeHRM -INFO - Closing Browser
+2021-12-13 15:53:09,677 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 15:53:13,491 - OrangeHRM -INFO - Launching URL
+2021-12-13 15:53:16,148 - OrangeHRM -INFO - Login Done Successfully
+2021-12-13 15:53:16,259 - OrangeHRM -INFO - Closing Browser
+2021-12-13 15:53:17,897 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 15:53:21,881 - OrangeHRM -INFO - Launching URL
+2021-12-13 15:53:27,992 - OrangeHRM -INFO - Login Done Successfully
+2021-12-13 15:53:28,084 - OrangeHRM -INFO - Closing Browser
+2021-12-13 15:53:29,712 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 15:53:33,765 - OrangeHRM -INFO - Launching URL
+2021-12-13 15:53:35,873 - OrangeHRM -INFO - Login Done Successfully
+2021-12-13 15:53:35,975 - OrangeHRM -INFO - Closing Browser
+2021-12-13 15:53:37,679 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 15:53:41,735 - OrangeHRM -INFO - Launching URL
+2021-12-13 15:53:41,837 - OrangeHRM -INFO - Validating Login Page OrangeHRMLogo
+2021-12-13 15:53:41,934 - OrangeHRM -INFO - Closing Browser
+2021-12-13 15:53:43,577 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 15:53:47,541 - OrangeHRM -INFO - Launching URL
+2021-12-13 15:53:47,568 - OrangeHRM -INFO - Validating Login Page Title
+2021-12-13 15:53:47,663 - OrangeHRM -INFO - Closing Browser
+2021-12-13 16:03:55,766 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 16:03:59,866 - OrangeHRM -INFO - Launching URL
+2021-12-13 16:04:00,052 - OrangeHRM -INFO - Validating Login Page OrangeHRMLogo
+2021-12-13 16:04:00,142 - OrangeHRM -INFO - Closing Browser
+2021-12-13 16:04:01,855 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 16:04:06,414 - OrangeHRM -INFO - Launching URL
+2021-12-13 16:04:06,450 - OrangeHRM -INFO - Validating Login Page Title
+2021-12-13 16:04:06,536 - OrangeHRM -INFO - Closing Browser
+2021-12-13 16:05:01,188 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 16:05:05,269 - OrangeHRM -INFO - Launching URL
+2021-12-13 16:05:07,838 - OrangeHRM -INFO - Login Done Successfully
+2021-12-13 16:05:07,994 - OrangeHRM -INFO - Closing Browser
+2021-12-13 16:05:09,651 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 16:05:15,416 - OrangeHRM -INFO - Launching URL
+2021-12-13 16:05:21,603 - OrangeHRM -INFO - Login Done Successfully
+2021-12-13 16:05:31,789 - OrangeHRM -INFO - Closing Browser
+2021-12-13 16:05:33,465 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 16:05:37,502 - OrangeHRM -INFO - Launching URL
+2021-12-13 16:05:39,474 - OrangeHRM -INFO - Login Done Successfully
+2021-12-13 16:05:39,606 - OrangeHRM -INFO - Closing Browser
+2021-12-13 16:05:41,238 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 16:05:45,115 - OrangeHRM -INFO - Launching URL
+2021-12-13 16:05:45,225 - OrangeHRM -INFO - Validating Login Page OrangeHRMLogo
+2021-12-13 16:05:45,322 - OrangeHRM -INFO - Closing Browser
+2021-12-13 16:05:46,965 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 16:05:52,171 - OrangeHRM -INFO - Launching URL
+2021-12-13 16:05:52,206 - OrangeHRM -INFO - Validating Login Page Title
+2021-12-13 16:05:52,311 - OrangeHRM -INFO - Closing Browser
+2021-12-13 16:10:00,031 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 16:10:05,150 - OrangeHRM -INFO - Launching URL
+2021-12-13 16:10:07,794 - OrangeHRM -INFO - Login Done Successfully
+2021-12-13 16:10:07,973 - OrangeHRM -INFO - Closing Browser
+2021-12-13 16:10:09,785 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 16:10:15,024 - OrangeHRM -INFO - Launching URL
+2021-12-13 16:10:20,596 - OrangeHRM -INFO - Login Done Successfully
+2021-12-13 16:10:30,753 - OrangeHRM -INFO - Closing Browser
+2021-12-13 16:10:32,454 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 16:10:36,668 - OrangeHRM -INFO - Launching URL
+2021-12-13 16:10:38,593 - OrangeHRM -INFO - Login Done Successfully
+2021-12-13 16:10:38,704 - OrangeHRM -INFO - Closing Browser
+2021-12-13 16:10:40,497 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 16:10:44,415 - OrangeHRM -INFO - Launching URL
+2021-12-13 16:10:44,497 - OrangeHRM -INFO - Validating Login Page OrangeHRMLogo
+2021-12-13 16:10:44,620 - OrangeHRM -INFO - Closing Browser
+2021-12-13 16:10:46,318 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 16:10:51,379 - OrangeHRM -INFO - Launching URL
+2021-12-13 16:10:51,413 - OrangeHRM -INFO - Validating Login Page Title
+2021-12-13 16:10:51,487 - OrangeHRM -INFO - Closing Browser
+2021-12-13 16:13:29,935 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 16:13:34,200 - OrangeHRM -INFO - Launching URL
+2021-12-13 16:13:36,525 - OrangeHRM -INFO - Login Done Successfully
+2021-12-13 16:13:36,634 - OrangeHRM -INFO - Closing Browser
+2021-12-13 16:13:38,322 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 16:13:42,384 - OrangeHRM -INFO - Launching URL
+2021-12-13 16:13:47,558 - OrangeHRM -INFO - Login Done Successfully
+2021-12-13 16:13:47,631 - OrangeHRM -INFO - Closing Browser
+2021-12-13 16:13:49,312 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 16:13:53,264 - OrangeHRM -INFO - Launching URL
+2021-12-13 16:13:55,191 - OrangeHRM -INFO - Login Done Successfully
+2021-12-13 16:13:55,269 - OrangeHRM -INFO - Closing Browser
+2021-12-13 16:13:56,998 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 16:14:03,659 - OrangeHRM -INFO - Launching URL
+2021-12-13 16:14:03,746 - OrangeHRM -INFO - Validating Login Page OrangeHRMLogo
+2021-12-13 16:14:03,831 - OrangeHRM -INFO - Closing Browser
+2021-12-13 16:14:05,652 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 16:14:09,341 - OrangeHRM -INFO - Launching URL
+2021-12-13 16:14:09,371 - OrangeHRM -INFO - Validating Login Page Title
+2021-12-13 16:14:09,451 - OrangeHRM -INFO - Closing Browser
+2021-12-13 16:15:59,551 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 16:16:03,304 - OrangeHRM -INFO - Launching URL
+2021-12-13 16:16:05,536 - OrangeHRM -INFO - Login Done Successfully
+2021-12-13 16:16:05,632 - OrangeHRM -INFO - Closing Browser
+2021-12-13 16:16:07,418 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 16:16:11,272 - OrangeHRM -INFO - Launching URL
+2021-12-13 16:16:16,746 - OrangeHRM -INFO - Login Done Successfully
+2021-12-13 16:16:16,836 - OrangeHRM -INFO - Closing Browser
+2021-12-13 16:16:18,559 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 16:16:22,662 - OrangeHRM -INFO - Launching URL
+2021-12-13 16:16:24,531 - OrangeHRM -INFO - Login Done Successfully
+2021-12-13 16:16:24,610 - OrangeHRM -INFO - Closing Browser
+2021-12-13 16:16:26,389 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 16:16:30,014 - OrangeHRM -INFO - Launching URL
+2021-12-13 16:16:30,127 - OrangeHRM -INFO - Validating Login Page OrangeHRMLogo
+2021-12-13 16:16:30,216 - OrangeHRM -INFO - Closing Browser
+2021-12-13 16:16:31,918 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 16:16:35,851 - OrangeHRM -INFO - Launching URL
+2021-12-13 16:16:35,895 - OrangeHRM -INFO - Validating Login Page Title
+2021-12-13 16:16:35,984 - OrangeHRM -INFO - Closing Browser
+2021-12-13 16:21:27,062 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 16:21:37,310 - OrangeHRM -INFO - Launching URL
+2021-12-13 16:21:37,525 - OrangeHRM -INFO - Validating Login Page OrangeHRMLogo
+2021-12-13 16:21:37,659 - OrangeHRM -INFO - Closing Browser
+2021-12-13 16:21:39,338 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 16:21:45,160 - OrangeHRM -INFO - Launching URL
+2021-12-13 16:21:45,202 - OrangeHRM -INFO - Validating Login Page Title
+2021-12-13 16:21:45,293 - OrangeHRM -INFO - Closing Browser
+2021-12-13 16:21:47,021 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 16:21:51,746 - OrangeHRM -INFO - Launching URL
+2021-12-13 16:21:57,313 - OrangeHRM -INFO - Login Done Successfully
+2021-12-13 16:21:57,395 - OrangeHRM -INFO - Closing Browser
+2021-12-13 16:24:14,150 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 16:24:17,912 - OrangeHRM -INFO - Launching URL
+2021-12-13 16:24:18,106 - OrangeHRM -INFO - Validating Login Page OrangeHRMLogo
+2021-12-13 16:24:18,225 - OrangeHRM -INFO - Closing Browser
+2021-12-13 16:24:19,974 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 16:24:23,968 - OrangeHRM -INFO - Launching URL
+2021-12-13 16:24:23,993 - OrangeHRM -INFO - Validating Login Page Title
+2021-12-13 16:24:24,073 - OrangeHRM -INFO - Closing Browser
+2021-12-13 16:24:25,795 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 16:24:29,549 - OrangeHRM -INFO - Launching URL
+2021-12-13 16:24:34,708 - OrangeHRM -INFO - Login Done Successfully
+2021-12-13 16:24:34,788 - OrangeHRM -INFO - Closing Browser
+2021-12-13 16:27:58,850 - OrangeHRM -INFO - Launching Chrome Browser
+2021-12-13 16:28:01,196 - OrangeHRM -INFO - Launching URL

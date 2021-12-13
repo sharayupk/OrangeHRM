@@ -1,0 +1,9 @@
+com\orangeHRM\testCases\AddUserPageTest.class
+com\orangeHRM\pageObjects\AddEmployeePage.class
+com\orangeHRM\pageObjects\LoginPage.class
+com\orangeHRM\testCases\BaseClass.class
+com\orangeHRM\testCases\HomePageTest.class
+com\orangeHRM\pageObjects\HomePage.class
+com\orangeHRM\testCases\LoginPageTest.class
+com\orangeHRM\pageObjects\AddUserPage.class
+com\orangeHRM\utilities\Utils.class

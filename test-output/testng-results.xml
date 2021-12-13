@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23251" started-at="2021-12-13T10:54:11Z" finished-at="2021-12-13T10:54:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23251" started-at="2021-12-13T10:54:11Z" finished-at="2021-12-13T10:54:34Z">
+      <class name="com.orangeHRM.testCases.LoginPageTest">
+        <test-method status="PASS" signature="initialization()[pri:0, instance:com.orangeHRM.testCases.LoginPageTest@78c03f1f]" name="initialization" is-config="true" duration-ms="6314" started-at="2021-12-13T16:24:11Z" finished-at="2021-12-13T16:24:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="validateorangeHRMLogoTest()[pri:1, instance:com.orangeHRM.testCases.LoginPageTest@78c03f1f]" name="validateorangeHRMLogoTest" duration-ms="155" started-at="2021-12-13T16:24:17Z" finished-at="2021-12-13T16:24:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateorangeHRMLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.orangeHRM.testCases.LoginPageTest@78c03f1f]" name="tearDown" is-config="true" duration-ms="110" started-at="2021-12-13T16:24:18Z" finished-at="2021-12-13T16:24:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="initialization()[pri:0, instance:com.orangeHRM.testCases.LoginPageTest@78c03f1f]" name="initialization" is-config="true" duration-ms="5761" started-at="2021-12-13T16:24:18Z" finished-at="2021-12-13T16:24:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="validateLoginPageTitleTest()[pri:2, instance:com.orangeHRM.testCases.LoginPageTest@78c03f1f]" name="validateLoginPageTitleTest" duration-ms="6" started-at="2021-12-13T16:24:23Z" finished-at="2021-12-13T16:24:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.orangeHRM.testCases.LoginPageTest@78c03f1f]" name="tearDown" is-config="true" duration-ms="79" started-at="2021-12-13T16:24:23Z" finished-at="2021-12-13T16:24:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="initialization()[pri:0, instance:com.orangeHRM.testCases.LoginPageTest@78c03f1f]" name="initialization" is-config="true" duration-ms="5507" started-at="2021-12-13T16:24:24Z" finished-at="2021-12-13T16:24:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="loginTest()[pri:3, instance:com.orangeHRM.testCases.LoginPageTest@78c03f1f]" name="loginTest" duration-ms="5129" started-at="2021-12-13T16:24:29Z" finished-at="2021-12-13T16:24:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.orangeHRM.testCases.LoginPageTest@78c03f1f]" name="tearDown" is-config="true" duration-ms="78" started-at="2021-12-13T16:24:34Z" finished-at="2021-12-13T16:24:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.orangeHRM.testCases.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
